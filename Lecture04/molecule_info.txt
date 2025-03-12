@@ -1,0 +1,3 @@
+Molecule: Caffeine
+Image URL: https://github.com/mio-x4/ppchem/blob/main/caffeine.png
+Description: Caffeine is a central nervous system (CNS) stimulant of the methylxanthine class and is the most commonly consumed psychoactive substance globally.
